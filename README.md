@@ -1,9 +1,9 @@
 #Calling Fortran Assemblies from .NET
 
-##C\#
+##C/#
 ![image](https://raw.github.com/bbhsu2/call-fortran-from-dotnet/master/assets/csharp.png)
 
-##F\#
+##F/#
 ![image](https://raw.github.com/bbhsu2/call-fortran-from-dotnet/master/assets/fsharp.png)
 
 
