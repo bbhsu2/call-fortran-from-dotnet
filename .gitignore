@@ -1,0 +1,9 @@
+packages/
+*/bin
+*/obj
+*/*.mod
+*/*.exe
+
+*.suo
+*.userprefs
+
